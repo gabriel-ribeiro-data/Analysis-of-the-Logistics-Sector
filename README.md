@@ -6,7 +6,7 @@
 ----
 
 ## Introduction
-  This project involves a detailed data analysis of a company's logistics sector using Power BI. The data was extracted from a spreadsheet, cleaned, and transformed using Power Query. Then, an interactive dashboard was created to facilitate data visualization and interpretation. The project is part of the Power BI 2024 minicourse offered by the [Hashtag Treinamentos](https://www.youtube.com/@HashtagTreinamentos) channel and is available in the following playlist: [https://www.youtube.com/playlist?list=PLxjKFMYkZ9Ocwz4qywOc5qYLi6apNZlCw].
+  This project involves a detailed data analysis of a company's logistics sector using Power BI. The data was extracted from a spreadsheet, cleaned, and transformed using Power Query, then an interactive dashboard was created to facilitate data visualization and interpretation. The project is part of the Power BI 2024 minicourse offered by the [Hashtag Treinamentos](https://www.youtube.com/@HashtagTreinamentos) channel and is available in the following playlist: [https://www.youtube.com/playlist?list=PLxjKFMYkZ9Ocwz4qywOc5qYLi6apNZlCw].
 ## Dashboard Creation from Transformed Data
   
 Fig. 1 displays the interactive dashboard created using Power BI.
